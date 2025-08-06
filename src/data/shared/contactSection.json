@@ -1,0 +1,48 @@
+{
+  "title": "Let’s Connect",
+  "subtitle": "Ready to start your real estate journey?",
+  "description": "Contact us today to discuss your investment opportunities and find your dream property.",
+  "contactInfo": {
+    "phone": "+91 9898339903",
+    "email": "info@buildindiarealty.com",
+    "address": "Zion Z1, 907–908, nr. Maple County Road,off Sindhu Bhavan Marg, Bodakdev, Ahmedabad, Gujarat 380054"
+  },
+  "formFields": [
+    {
+      "id": 1,
+      "name": "name",
+      "label": "Full Name",
+      "type": "text",
+      "placeholder": "Enter your full name",
+      "required": true
+    },
+    {
+      "id": 2,
+      "name": "email",
+      "label": "Email Address",
+      "type": "email",
+      "placeholder": "Enter your email address",
+      "required": true
+    },
+    {
+      "id": 3,
+      "name": "phone",
+      "label": "Phone Number",
+      "type": "tel",
+      "placeholder": "Enter your phone number",
+      "required": true
+    },
+    {
+      "id": 4,
+      "name": "message",
+      "label": "Message",
+      "type": "textarea",
+      "placeholder": "Tell us about your requirements",
+      "required": false
+    }
+  ],
+  "submitButton": {
+    "text": "Send Message",
+    "type": "submit"
+  }
+}

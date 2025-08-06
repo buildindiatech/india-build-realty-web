@@ -1,0 +1,37 @@
+{
+  "title": "Prime Locations",
+  "subtitle": "Strategic positioning in India's growth corridors",
+  "description": "Our projects are strategically located in emerging smart cities and growth zones.",
+  "locations": [
+    {
+      "id": 1,
+      "name": "Dholera SIR",
+      "description": "India's first smart city and industrial hub",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/map.png"
+    },
+    {
+      "id": 2,
+      "name": "GIFT City",
+      "description": "Gujarat International Finance Tec-City",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/map.png"
+    },
+    {
+      "id": 3,
+      "name": "DMIC Corridor",
+      "description": "Delhi-Mumbai Industrial Corridor",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/map.png"
+    }
+  ],
+  "stats": [
+    {
+      "id": 1,
+      "number": "20+",
+      "label": "RERA-Compliant Projects"
+    },
+    {
+      "id": 2,
+      "number": "500+",
+      "label": "Clients Who Trust Us"
+    }
+  ]
+}

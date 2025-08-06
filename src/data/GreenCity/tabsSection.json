@@ -1,0 +1,48 @@
+{
+  "title": "Our Projects",
+  "subtitle": "Explore our diverse portfolio of developments",
+  "tabs": [
+    {
+      "id": 1,
+      "name": "ABCD Building",
+      "description": "Strategically located near the ABCD Building - epicenter of governance",
+      "projects": [
+        {
+          "id": 1,
+          "name": "Urban Heights",
+          "location": "Dholera SIR",
+          "type": "Apartment Complex",
+          "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/sc/abcd.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dholera Trade Center",
+      "description": "Ideally located near Dholera Trade Center—hub for commerce, and business activities",
+      "projects": [
+        {
+          "id": 3,
+          "name": "Business Park",
+          "location": "DMIC Corridor",
+          "type": "Office Complex",
+          "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/sc/dtc.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lothal",
+      "description": "Near Lothal where history meets opportunity with upcoming maritime museum and tourism.",
+      "projects": [
+        {
+          "id": 4,
+          "name": "Lothal",
+          "location": "Dholera SIR",
+          "type": "5-Star Resort",
+          "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/sc/lothal.jpeg"
+        }
+      ]
+    }
+  ]
+}

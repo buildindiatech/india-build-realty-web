@@ -1,0 +1,16 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "title": "Milestones that Matter",
+      "description": "Phase 1 laid the groundwork with premium plots, modern infrastructure, and strong returns — now home to a flourishing neighborhood.",
+      "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/projects/rg/4.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "The Next Chapter Begins",
+      "description": "With smarter utilities, enhanced lifestyle features, and newly launched plots, Phase 2 welcomes you to be part of the Dholera dream — reimagined.",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/hero-slide-1.png"
+    }
+  ]
+}

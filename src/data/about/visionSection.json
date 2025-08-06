@@ -1,0 +1,25 @@
+{
+  "title": "More Than Buildings",
+  "description": "We’re not just developers. We’re curators of community, catalysts for growth, and champions of a smarter India. Whether it’s a residential enclave or a commercial corridor, every Build India project stands for quality, utility, and design excellence.",
+  "bgImg": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/about/mtb.jpeg",
+  "visionPoints": [
+    {
+      "id": 1,
+      "title": "Smart Cities",
+      "description": "Building intelligent urban spaces with integrated technology",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/final-bi-imgs/about-hero/vision.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Development",
+      "description": "Creating eco-friendly communities for future generations",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/vision.png"
+    },
+    {
+      "id": 3,
+      "title": "Affordable Luxury",
+      "description": "Making premium living accessible to all",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/vision.png"
+    }
+  ]
+}

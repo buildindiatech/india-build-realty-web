@@ -1,0 +1,31 @@
+{
+  "title": "Make your dream a place to call Home",
+  "description": "At Rajpath Grand, we turn your aspiration into a legacy—delivering premier living spaces in the heart of India’s first smart city",
+  "downloadLink": "https://drive.google.com/file/d/1Pl2JjIsjGDLT7ZcOhX7aIR2cO3TSM44_/view?usp=sharing",
+  "impacts": [
+    {
+      "id": 1,
+      "title": "Community Development",
+      "description": "Creating sustainable communities with modern infrastructure",
+      "icon": "🏘️"
+    },
+    {
+      "id": 2,
+      "title": "Economic Growth",
+      "description": "Generating employment and boosting local economies",
+      "icon": "📈"
+    },
+    {
+      "id": 3,
+      "title": "Environmental Responsibility",
+      "description": "Implementing green building practices and sustainability",
+      "icon": "🌱"
+    },
+    {
+      "id": 4,
+      "title": "Innovation",
+      "description": "Pioneering smart city solutions and technology integration",
+      "icon": "💡"
+    }
+  ]
+}

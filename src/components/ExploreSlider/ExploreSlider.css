@@ -1,0 +1,28 @@
+@media (width >= 1280px) {
+  .large-btn-flex button {
+    width: fit-content !important;
+    min-width: 160px;
+  }
+}
+/* 
+@media (min-width: 680px) and (max-width: 1280px) {
+}
+
+@media (width < 680px) {
+  #mix-width-for-mob {
+    width: 100% !important;
+  }
+}
+ */
+/* 
+@media (max-width: 1279px) {
+  .swiper-fix .swiper-slide:first-child {
+    margin-left: 1rem; 
+  }
+}
+
+@media (max-width: 640px) {
+  .swiper-fix .swiper-slide:first-child {
+    margin-left: 1rem;
+  }
+} */

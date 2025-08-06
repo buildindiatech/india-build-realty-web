@@ -1,0 +1,23 @@
+{
+  "title": " Live Your Dream at Rajpath Grand",
+  "subtitle": "Located near Dholera Express Highway, Rajpath Grand offers high-appreciation plots designed for smart investors seeking long-term growth",
+  "description": "",
+  "img": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/refs/heads/main/public/images/photos/projects/rg/1.jpeg",
+  "stats": [
+    {
+      "id": 1,
+      "number": "100+",
+      "label": "Skilled Professionals"
+    },
+    {
+      "id": 2,
+      "number": "50+",
+      "label": "Unified Vision & Mission"
+    },
+    {
+      "id": 3,
+      "number": "200+",
+      "label": "Families Registered"
+    }
+  ]
+}

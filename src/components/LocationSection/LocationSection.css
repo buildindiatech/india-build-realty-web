@@ -1,0 +1,16 @@
+@media (min-width: 680px) and (max-width: 1280px) {
+  .order-between-680-1280 {
+    order: 2 !important;
+  }
+  .order-between-680-1280-first {
+    order: 1 !important;
+  }
+  .show-between-680-1280 {
+    display: block !important;
+  }
+}
+@media (max-width: 679px), (min-width: 1281px) {
+  .show-between-680-1280 {
+    display: none !important;
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Turning Ideas into Real Places",
+  "subtitle": "Build India Realty, backed by RAV Group in Ahmedabad, creates smart spaces from simple ideas—building better plots, homes, and futures.",
+  "description": "",
+  "img": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/refs/heads/main/public/images/photos/about/1.jpeg",
+  "stats": [
+    {
+      "id": 1,
+      "number": "100+",
+      "label": "Skilled Professionals"
+    },
+    {
+      "id": 2,
+      "number": "50+",
+      "label": "Unified Vision & Mission"
+    },
+    {
+      "id": 3,
+      "number": "200+",
+      "label": "Families Registered"
+    }
+  ]
+}

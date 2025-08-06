@@ -1,0 +1,88 @@
+{
+  "companyInfo": {
+    "name": "Build India Realty",
+    "description": "Building India's Future, One Project at a Time",
+    "logo": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/react.svg"
+  },
+  "quickLinks": [
+    {
+      "id": 1,
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "id": 3,
+      "title": "Projects",
+      "url": "/projects"
+    },
+    {
+      "id": 4,
+      "title": "Blog",
+      "url": "/blog"
+    },
+    {
+      "id": 5,
+      "title": "Contact",
+      "url": "/#contact"
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "title": "Residential Projects",
+      "url": "/projects#residential"
+    },
+    {
+      "id": 2,
+      "title": "Commercial Spaces",
+      "url": "/projects#commercial"
+    },
+    {
+      "id": 3,
+      "title": "Resort & Hospitality",
+      "url": "/projects#resorts"
+    },
+    {
+      "id": 4,
+      "title": "Investment Opportunities",
+      "url": "/#investing"
+    }
+  ],
+  "contactInfo": {
+    "phone": "+91 9898339903",
+    "email": "info@buildindiarealty.com",
+    "address": "Build India Realty, Gujarat, India"
+  },
+  "socialLinks": [
+    {
+      "id": 1,
+      "name": "Facebook",
+      "url": "https://facebook.com/buildindiarealty",
+      "icon": "facebook"
+    },
+    {
+      "id": 2,
+      "name": "Twitter",
+      "url": "https://twitter.com/buildindiarealty",
+      "icon": "twitter"
+    },
+    {
+      "id": 3,
+      "name": "Instagram",
+      "url": "https://instagram.com/buildindiarealty",
+      "icon": "instagram"
+    },
+    {
+      "id": 4,
+      "name": "LinkedIn",
+      "url": "https://linkedin.com/company/buildindiarealty",
+      "icon": "linkedin"
+    }
+  ],
+  "copyright": "© 2024 Build India Realty. All rights reserved."
+}

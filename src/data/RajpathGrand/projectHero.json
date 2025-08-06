@@ -1,0 +1,23 @@
+{
+  "title": "Rajpath Grand",
+  "subtitle": "Your dream home in Dholera Smart City is within reach. Secure your plot today and take the first step toward a brighter future.",
+  "description": "",
+  "img": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/final-bi-imgs/home-slider/slide-1.png",
+  "stats": [
+    {
+      "id": 1,
+      "number": "100+",
+      "label": "Skilled Professionals"
+    },
+    {
+      "id": 2,
+      "number": "50+",
+      "label": "Unified Vision & Mission"
+    },
+    {
+      "id": 3,
+      "number": "200+",
+      "label": "Families Registered"
+    }
+  ]
+}

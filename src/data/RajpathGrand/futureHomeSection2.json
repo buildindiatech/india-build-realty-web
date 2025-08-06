@@ -1,0 +1,46 @@
+{
+  "title": "The Next Chapter Begins",
+  "subtitle": "The Next Chapter Begins",
+  "description": "With upgraded infrastructure, enhanced amenities, and new plots, Phase 2 invites you to be part of a future-ready community.",
+  "description2": "With upgraded infrastructure, enhanced amenities, and new plots, Phase 2 invites you to be part of a future-ready community.",
+  "features": [
+    {
+      "id": 1,
+      "title": "Smart Technology",
+      "description": "Integrated home automation systems",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/final-bi-imgs/project/phase-2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Design",
+      "description": "Eco-friendly materials and energy efficiency"
+    },
+    {
+      "id": 3,
+      "title": "Prime Location",
+      "description": "Strategic positioning in growth corridors"
+    }
+  ],
+  "tabs": [
+    {
+      "name": "Corporate Building ...........",
+      "description": "At The Heart Of Dholera’s Emerging Business Zone",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/hero-slide-1.png"
+    },
+    {
+      "name": "International Airport",
+      "description": "Global Gateway Just Minutes From Your Plot",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/hero-slide-2.png"
+    },
+    {
+      "name": "Solar Park",
+      "description": "Near India’s Largest Renewable Energy Hub.",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/vision.png"
+    },
+    {
+      "name": "6-Lane Expressway & Monorail",
+      "description": "Seamless High-Speed Links To Major Corridors",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/hero-slide-1.png"
+    }
+  ]
+}

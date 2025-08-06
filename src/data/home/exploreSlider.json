@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Rajpath Enclave",
+      "subtitle": "A blend of architectural elegance and strategic location, It stands as a testament to our vision for smarter living. Surrounded by modern infrastructure and natural beauty.",
+      "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/1.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Rajpath grand",
+      "subtitle": "Located near Dholera Express Highway, Rajpath Grand offers high-appreciation plots designed for smart investors seeking long-term growth. A perfect harmony of location, value, and vision.",
+      "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Green City",
+      "subtitle": "Your dream home in Dholera Smart City is within reach. Secure your plot today and take the first step toward a brighter future.",
+      "image": "https://raw.githubusercontent.com/RawAgent2407/bi-realty/main/public/images/photos/home/3.jpeg"
+    }
+  ]
+}

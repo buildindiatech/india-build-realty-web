@@ -1,0 +1,25 @@
+{
+  "title": "Project Showcase",
+  "subtitle": "Witness the transformation of our developments",
+  "description": "From groundbreaking to completion, see how we bring our vision to life.",
+  "images": [
+    {
+      "id": 1,
+      "title": "Construction Progress",
+      "description": "Real-time updates on project development",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/big-img.png"
+    },
+    {
+      "id": 2,
+      "title": "Completed Projects",
+      "description": "Finished developments ready for occupancy",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/big-img.png"
+    },
+    {
+      "id": 3,
+      "title": "Future Plans",
+      "description": "Upcoming projects in the pipeline",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/big-img.png"
+    }
+  ]
+}

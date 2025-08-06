@@ -1,0 +1,247 @@
+.swiper-button-prev,
+.swiper-button-next {
+  background: #ffffffa6 !important;
+  /* border-radius: 5px; */
+  padding: 35px 30px;
+  margin: 0px 35px;
+  color: #000 !important;
+  transition: 0.3s ease-in-out;
+  transform: translateY(-50%) scale(0.7);
+  /* bottom: 500px !important; */
+}
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+  background: #ffffffd1 !important;
+}
+
+.hero-slider .swiper-pagination {
+  /* border: 5px solid red !important; */
+  margin-bottom: 4vh;
+  transform: scale(1.2);
+  padding: 10px 0;
+}
+.hero-slider .swiper-pagination .swiper-pagination-bullet {
+  /* border: 5px solid blue !important; */
+  color: #fff !important;
+  background: #fff !important;
+  transition: all 0.3s ease;
+
+  opacity: 0.5;
+}
+
+.hero-slider .swiper-pagination .swiper-pagination-bullet-active {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+/* Smooth slide transitions */
+.hero-slider .swiper-slide {
+  transition: all 0.8s ease-in-out;
+}
+
+.hero-slider .swiper-slide-active {
+  transform: scale(1.02);
+}
+
+/* Enhanced slide transitions for navigation clicks */
+/*
+.hero-slider .swiper-slide.slide-transition-active {
+  animation: slideTransition 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+}*/
+
+@keyframes slideTransition {
+  0% {
+    opacity: 0.8;
+    transform: scale(0.98) translateX(0);
+  }
+  50% {
+    opacity: 0.9;
+    transform: scale(1.01) translateX(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1.02) translateX(0);
+  }
+}
+
+/* Navigation-triggered content animations */
+/*
+.hero-slider .swiper-slide.slide-transition-active h2 {
+  animation: contentSlideIn 1.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hero-slider .swiper-slide.slide-transition-active p {
+  animation: contentSlideIn 1.2s cubic-bezier(0.4, 0, 0.2, 1) 0.3s both;
+}
+  */
+
+@keyframes contentSlideIn {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Smooth navigation button click effects */
+.hero-slider .swiper-button-prev:active,
+.hero-slider .swiper-button-next:active {
+  transform: translateY(-50%) scale(0.75);
+  transition: transform 0.2s ease;
+}
+
+/* Navigation button click animation */
+.hero-slider .swiper-button-prev::after,
+.hero-slider .swiper-button-next::after {
+  transition: all 0.3s ease;
+}
+
+.hero-slider .swiper-button-prev:active::after,
+.hero-slider .swiper-button-next:active::after {
+  transform: scale(0.9);
+  opacity: 0.8;
+}
+
+/* Smooth fade effect for content */
+.hero-slider .swiper-slide .absolute {
+  transition: opacity 0.6s ease-in-out, transform 0.6s ease-in-out;
+}
+
+.hero-slider .swiper-slide-active .absolute {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.hero-slider .swiper-slide:not(.swiper-slide-active) .absolute {
+  opacity: 0.8;
+  transform: translateY(10px);
+}
+
+/* Enhanced smooth transitions */
+.hero-slider .swiper-wrapper {
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hero-slider .swiper-slide {
+  will-change: transform;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+/* Smooth text animations */
+/*
+.hero-slider .swiper-slide h2,
+.hero-slider .swiper-slide p {
+  transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hero-slider .swiper-slide-active h2 {
+  animation: slideInUp 0.8s ease-out;
+}
+
+.hero-slider .swiper-slide-active p {
+  animation: slideInUp 0.8s ease-out 0.2s both;
+}
+*/
+@keyframes slideInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.explore-slider .swiper-pagination {
+  /* border: 5px solid red !important; */
+  margin-bottom: -4vh !important;
+
+  transform: scale(1.2);
+}
+.explore-slider .swiper-pagination .swiper-pagination-bullet {
+  /* border: 5px solid blue !important; */
+  color: #000 !important;
+  background: #000 !important;
+}
+
+@media (width >=1280px) {
+  .custom-up-gap {
+    transform: translateY(20%) !important;
+  }
+  .swiper-button-prev,
+  .swiper-button-next {
+    background: #ffffffdd !important;
+    /* border-radius: 5px; */
+    padding: 35px 30px;
+    margin: 0px 0px;
+    color: #000 !important;
+    transition: 0.3s ease-in-out;
+    height: 48px;
+    transform: translateY(-50%) scale(0.7);
+    border-radius: 4px;
+    /* bottom: 500px !important; */
+  }
+  .swiper-button-prev:hover,
+  .swiper-button-next:hover {
+    background: #ffffffd1 !important;
+  }
+
+  .swiper-button-prev {
+    transform: translateY(-50%) scale(0.7);
+  }
+  .swiper-button-next {
+    transform: translateY(-50%) scale(0.7);
+  }
+}
+/* Add to your global CSS file or inside a Tailwind `@layer` if needed */
+@media (min-width: 681px) and (max-width: 1279px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none !important;
+  }
+  .explore-slider .swiper-pagination {
+    /* border: 5px solid red !important; */
+    margin-bottom: -10vh !important;
+
+    transform: scale(1.2);
+  }
+}
+
+@media (width < 640px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none !important;
+  }
+  .explore-slider .swiper-pagination {
+    /* border: 5px solid red !important; */
+    margin-bottom: -10vh !important;
+
+    transform: scale(1.2);
+  }
+
+  .custom-up-gap {
+    transform: translateY(50%) !important;
+  }
+
+  .explore-slider .swiper-pagination {
+    border: 5px solid red !important;
+    margin-bottom: -4vh !important;
+    z-index: 100;
+    position: absolute;
+
+    transform: scale(1.2);
+  }
+  .exp-sld-cont {
+    border: 5px solid blue !important;
+    position: relative;
+  }
+  .explore-slider .swiper-pagination .swiper-pagination-bullet {
+    /* border: 5px solid blue !important; */
+    color: #000 !important;
+    background: #000 !important;
+  }
+}

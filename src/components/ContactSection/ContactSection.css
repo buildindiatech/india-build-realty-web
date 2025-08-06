@@ -1,0 +1,25 @@
+/* Ensure all form elements use Open Sans */
+.contact-form input,
+.contact-form textarea,
+.contact-form button,
+.contact-form label,
+.contact-form p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Style form inputs and textarea to ensure consistent appearance */
+.contact-form input[type='text'],
+.contact-form input[type='email'],
+.contact-form textarea {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+/* Style the checkbox label */
+.contact-form .terms-label {
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+/* Style error messages */
+.contact-form .error-message {
+  font-family: 'Open Sans', sans-serif !important;
+}

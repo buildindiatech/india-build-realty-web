@@ -1,0 +1,38 @@
+{
+  "title": "Let’s Connect",
+  "subtitle": "Ready to start your real estate journey?",
+  "description": "Contact us today to discuss your investment opportunities and find your dream property.",
+  "contactInfo": {
+    "phone": "+91 9898339903",
+    "email": "info@buildindiarealty.com",
+    "address": "Zion Z1, 907–908, nr. Maple County Road,off Sindhu Bhavan Marg, Bodakdev, Ahmedabad, Gujarat 380054"
+  },
+  "videos": [
+    {
+      "id": 1,
+      "title": "Project Overview",
+      "description": "Comprehensive tour of our flagship project",
+      "videoUrl": "https://www.youtube.com/embed/example1",
+      "thumbnail": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/yt.png"
+    },
+    {
+      "id": 2,
+      "title": "Construction Timelapse",
+      "description": "Watch our project come to life",
+      "videoUrl": "https://www.youtube.com/embed/example2",
+      "thumbnail": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/yt.png"
+    },
+    {
+      "id": 3,
+      "title": "Customer Testimonials",
+      "description": "Hear from our satisfied customers",
+      "videoUrl": "https://www.youtube.com/embed/example3",
+      "thumbnail": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/yt.png"
+    }
+  ],
+  "contactInfo": {
+    "pho ": "+91 98983 39903",
+    "email": "buildindiarealty@gmail.com",
+    "address": "Zion Z1, 907–908, nr. Maple County Road, off Sindhu Bhavan Marg, Bodakdev, Ahmedabad, Gujarat 380054"
+  }
+}

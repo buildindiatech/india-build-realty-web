@@ -1,0 +1,17 @@
+.dark-footer-wrapper * {
+  background: #000 !important;
+  color: #fff !important;
+}
+.dark-footer-wrapper {
+  background: #000 !important;
+  /* border: 5px solid red; */
+  /* margin: 0 !important; */
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+@media (width < 1280px) {
+  .dark-footer-wrapper footer {
+    padding-top: 40px;
+  }
+}

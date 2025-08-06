@@ -1,0 +1,31 @@
+{
+  "title": "From Vision to Vibrant Living",
+  "description": "At RAV Green City, we don’t just sell plots - we craft lifestyles within the nation’s most futuristic urban development.",
+  "downloadLink": "https://example.com/green-city-catalog.pdf",
+  "impacts": [
+    {
+      "id": 1,
+      "title": "Community Development",
+      "description": "Creating sustainable communities with modern infrastructure",
+      "icon": "🏘️"
+    },
+    {
+      "id": 2,
+      "title": "Economic Growth",
+      "description": "Generating employment and boosting local economies",
+      "icon": "📈"
+    },
+    {
+      "id": 3,
+      "title": "Environmental Responsibility",
+      "description": "Implementing green building practices and sustainability",
+      "icon": "🌱"
+    },
+    {
+      "id": 4,
+      "title": "Innovation",
+      "description": "Pioneering smart city solutions and technology integration",
+      "icon": "💡"
+    }
+  ]
+}

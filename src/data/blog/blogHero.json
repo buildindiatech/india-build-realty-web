@@ -1,0 +1,27 @@
+{
+  "title": "The thinking, ideas and technology behind World.",
+  "subtitle": "Build India Blog",
+  "searchPlaceholder": "Search articles...",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Investment Tips",
+      "count": 15
+    },
+    {
+      "id": 2,
+      "name": "Market Trends",
+      "count": 12
+    },
+    {
+      "id": 3,
+      "name": "Project Updates",
+      "count": 8
+    },
+    {
+      "id": 4,
+      "name": "Industry News",
+      "count": 20
+    }
+  ]
+}

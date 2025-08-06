@@ -1,0 +1,24 @@
+{
+  "title": "Our Journey",
+  "subtitle": "A visual story of our growth and achievements",
+  "images": [
+    {
+      "id": 1,
+      "title": "Project Development",
+      "description": "From concept to completion",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/ab1.png"
+    },
+    {
+      "id": 2,
+      "title": "Team Excellence",
+      "description": "Our dedicated team at work",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/ab2.png"
+    },
+    {
+      "id": 3,
+      "title": "Customer Success",
+      "description": "Happy families in their dream homes",
+      "image": "https://raw.githubusercontent.com/KHUNTPRIYANSH/site_photos/refs/heads/main/bi-reality/ab3.png"
+    }
+  ]
+}
