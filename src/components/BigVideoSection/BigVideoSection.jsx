@@ -123,7 +123,7 @@ const ContactForm = ({ campaignId }) => {
             placeholder="FIRST NAME*"
             value={formData.firstName}
             onChange={handleChange}
-            className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white ${
+            className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white !text-black ${
               errors.firstName
                 ? "border-red-500 focus:ring-red-500"
                 : "border-gray-300 focus:ring-black"
@@ -140,7 +140,7 @@ const ContactForm = ({ campaignId }) => {
             placeholder="LAST NAME*"
             value={formData.lastName}
             onChange={handleChange}
-            className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white ${
+            className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white !text-black ${
               errors.lastName
                 ? "border-red-500 focus:ring-red-500"
                 : "border-gray-300 focus:ring-black"
@@ -159,7 +159,7 @@ const ContactForm = ({ campaignId }) => {
           placeholder="+91 | MOBILE NUMBER*"
           value={formData.mobile}
           onChange={handleChange}
-          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white ${
+          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white !text-black ${
             errors.mobile
               ? "border-red-500 focus:ring-red-500"
               : "border-gray-300 focus:ring-black"
@@ -177,7 +177,7 @@ const ContactForm = ({ campaignId }) => {
           placeholder="EMAIL*"
           value={formData.email}
           onChange={handleChange}
-          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white ${
+          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white !text-black ${
             errors.email
               ? "border-red-500 focus:ring-red-500"
               : "border-gray-300 focus:ring-black"
@@ -195,7 +195,7 @@ const ContactForm = ({ campaignId }) => {
           rows="4"
           value={formData.message}
           onChange={handleChange}
-          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white resize-none ${
+          className={`w-full border text-sm mob:text-base px-4 py-3 rounded outline-none focus:ring-1 bg-white resize-none !text-black ${
             errors.message
               ? "border-red-500 focus:ring-red-500"
               : "border-gray-300 focus:ring-black"
