@@ -70,9 +70,6 @@ const ContactForm = ({ campaignId }) => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!validateForm()) return;
-
-    console.log(campaignId);
-
     setIsSubmitting(true);
     try {
       // Prepare payload and API URL
