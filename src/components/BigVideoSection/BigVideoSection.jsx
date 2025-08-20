@@ -73,7 +73,7 @@ const ContactForm = ({ campaignId }) => {
     setIsSubmitting(true);
     try {
       // Prepare payload and API URL
-      const apiUrl = `http://test.thebi.tech/api/leads/website?campaign=${campaignId}`;
+      const apiUrl = `https://api.thebi.tech/api/leads/website?campaign=${campaignId}`;
       const payload = {
         firstName: formData.firstName,
         lastName: formData.lastName,

@@ -76,7 +76,7 @@ const ContactForm = () => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch("http://test.thebi.tech/api/leads/public", {
+      const response = await fetch("https://api.thebi.tech/api/leads/public", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
